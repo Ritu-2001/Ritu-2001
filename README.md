@@ -7,10 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu-2001&label=Profile%20views&color=0e75b6&style=flat" alt="ritu-2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritu-2001" alt="ritu-2001" /></a> </p>
-- ✍️ I’m currently  pursuing B.Tech in Electrical Engineering 
+- ✍️ I’m currently  pursuing B.Tech in Electrical Engineering
+ 
 - ✨ I’m a Web-Volunteer at Google Developer Student Clubs, CGEC.
+ 
 - 🌱 I’m currently learning DSA and React js
+
 - 🤝 I’m looking for help for Solving DSA Questions
+
 - 📄 Know about me [https://drive.google.com/file/d/1YVZ62-8UalH7FaR81EAPMo311257m7mI/view?usp=share_link](https://drive.google.com/file/d/1YVZ62-8UalH7FaR81EAPMo311257m7mI/view?usp=share_link)
 
 - 📫 How to reach me **protyushag80@gmail.com**
